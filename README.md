@@ -50,3 +50,15 @@ We must make sure to inject informative prints in the course of the game to have
 ## Warnings
 ⚠️ This project is not finished yet.Weapons will be included in a future commit and more characters also.
 
+## Game Update on 08/11/2022
+1. ✔️ Added the Mage and Tank types of Characters
+>> - Mage will have a complete new attack called lightning attack and a new attribute called mana.
+>> - Mage won't be able to perform lightning attack if his mana is depleted, instead he will do a regular one.
+>> - Tank class of character will have a vitality twice as big as the regular character vitality.
+2. :heavy_check_mark: Added the Equipment Class
+>> - This new class will contain a sword and a cape.
+>> - The sword will mulitply the attack damage with a random number between 1.1 and 1.5
+>> - The cape will be multiply the health of the character with a random number between 1.1 and 1.3
+
+:warning:This will add a few more complexity to the game.There will be even more updates in the future!
+
